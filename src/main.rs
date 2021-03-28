@@ -11,7 +11,5 @@ fn main() {
         if win {
             break;
         }
-    }
-    
-    
+    }  
 }
